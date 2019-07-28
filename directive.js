@@ -1,8 +1,6 @@
 export default {
     bind(el, binding) {
-      alert()
       try {
-  
         const { value } = binding;
         const loader = 'src/img/loading.gif';
         const fallBackImage = 'src/img/fall-back-image.png';

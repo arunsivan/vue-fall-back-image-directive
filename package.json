@@ -1,0 +1,32 @@
+{
+  "name": "vue-fall-back-image-directive",
+  "version": "1.0.0",
+  "description": "Directive for loading fall back image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunsivan/vue-fall-back-image-directive.git"
+  },
+  "author": "Arun sivan <arunsivan18.8@gmail.com> (http://arunsivan.github.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunsivan/vue-fall-back-image-directive/issues"
+  },
+  "homepage": "https://github.com/arunsivan/vue-fall-back-image-directive#readme",
+  "keywords": [
+    "vue",
+    "fall back image",
+    "default image",
+    "vue js directive",
+    "directive",
+    "custom vue directive",
+    "vue-fall-back-image",
+    "global default image",
+    "error image with loader",
+    "image loader directive",
+    "image loader component"
+  ]
+}

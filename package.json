@@ -1,6 +1,6 @@
 {
   "name": "vue-fall-back-image-directive",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Directive for loading fall back image",
   "main": "index.js",
   "scripts": {
